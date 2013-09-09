@@ -1,0 +1,10 @@
+{
+  "name":"RedisShardAPI",
+  "version":"0.1.0",
+  "description":"A pure Javascript porting version of Python's RedisShardAPI.",
+  "author":{"name":"wapj", "email":"wapj2000@gmail.com"},
+  "dependencies": {
+    "redis":"*",
+    "async":"*"
+  }
+}
