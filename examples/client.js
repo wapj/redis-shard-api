@@ -9,6 +9,9 @@ var servers = [
 
 var redis = new RedisShard(servers);
 
+redis.set("test1", "1234");
+
 redis.get("test1", function(err, result){
   console.log(result);
 });
+
