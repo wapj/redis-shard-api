@@ -1,5 +1,5 @@
 {
-  "name": "RedisShardAPI",
+  "name": "redis-shard-api",
   "version": "0.1.0",
   "description": "A pure Javascript port version of Python's RedisShardAPI",
   "main": "index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wapj/RedisShardApi.git"
+    "url": "https://github.com/wapj/redis-shard-api"
   },
   "keywords": [
     "redis",
@@ -31,6 +31,6 @@
   },
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/wapj/RedisShardApi/issues"
+    "url": "https://github.com/wapj/redis-shard-api/issues"
   }
 }
