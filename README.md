@@ -15,7 +15,7 @@ npm install redis-shard-api
 Simple example, include as `example/client.js`
 
 ```javascript
-var RedisShard = require('../index');
+var RedisShard = require('redis-shard-api');
 
 var servers = [
   {'name':'node1','host':'127.0.0.1','port':6379,'db':0},
