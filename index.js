@@ -1,2 +1,2 @@
-module.exports  = require('./lib/RedisShardAPI');
+module.exports  = require('./lib/RedisShardApi');
 

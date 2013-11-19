@@ -1,6 +1,6 @@
 {
   "name": "redis-shard-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A pure Javascript port version of Python's RedisShardAPI",
   "main": "index.js",
   "directories": {
